@@ -1,0 +1,42 @@
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\App.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\Microsoft.WinUI.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\Microsoft.Windows.SDK.NET.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\WinRT.Runtime.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\CSfieldSync.deps.json
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\CSfieldSync.runtimeconfig.dev.json
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\App.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\MainWindow.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\CSfieldSync.exe
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\CSfieldSync.runtimeconfig.json
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\CSfieldSync.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\CSfieldSync.pdb
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\resources.pri
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync (Package).build.appxrecipe
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\CSfieldSync (Package).wapproj.AssemblyReference.cache
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\CSfieldSync (Package).wapproj.CoreCompileInputs.cache
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\CSfieldSync.pri.xml
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\obj\x64\Debug\CSfieldSync (Package).wapproj.LastBuild.txt
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\SyncPage.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\SyncPage.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\SyncSetPage.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\CSfieldSync\SyncSetPage.xbf

@@ -1,0 +1,28 @@
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\SyncPage.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\SyncSetPage.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22000.0\Redist\Debug\x64\ucrtbased.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\SplashScreen.scale-200.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\StoreLogo.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync (Package)\bin\x64\Debug\resources.pri
+C:\Users\fodhiambo1\.nuget\packages\microsoft.projectreunion.foundation\0.8.12\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\fodhiambo1\.nuget\packages\microsoft.projectreunion.winui\0.8.12\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\fodhiambo1\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\fodhiambo1\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\WinRT.Runtime.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\CSfieldSync.deps.json
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\CSfieldSync.runtimeconfig.dev.json
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\obj\x64\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\obj\x64\Debug\net5.0-windows10.0.19041.0\SyncPage.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\obj\x64\Debug\net5.0-windows10.0.19041.0\SyncSetPage.xbf
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\obj\x64\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\fodhiambo1\.nuget\packages\microsoft.projectreunion.foundation\0.8.12\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\CSfieldSync.runtimeconfig.json
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\CSfieldSync.dll
+C:\Users\fodhiambo1\source\repos\CSfieldSync\CSfieldSync\bin\x64\Debug\net5.0-windows10.0.19041.0\CSfieldSync.pdb

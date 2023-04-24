@@ -1,0 +1,208 @@
+﻿<Page
+    x:Class="CSfieldSync.SyncSetPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CSfieldSync"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <!--<Grid x:Name="LayoutRoot" Background="#555555" 
+      Width="400" Height="300"
+      ColumnDefinitions="250, 150"
+      RowDefinitions="Auto, 2*, *">
+        <TextBlock Grid.Row="0" Grid.Column="0" 
+       Grid.ColumnSpan="2" 
+       Margin="10" FontWeight="Bold" 
+       Text="Contoso Corporation"
+       HorizontalAlignment="Center"
+       VerticalAlignment="Center" />
+        <Grid x:Name="FormLayoutGrid" Grid.Row="1" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="First Name" Margin="10" 
+           HorizontalAlignment="Left" VerticalAlignment="Center" />
+            <TextBox Grid.Row="0" Grid.Column="1" Margin="10" />
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="Last Name" Margin="10" 
+           HorizontalAlignment="Left" VerticalAlignment="Center" />
+            <TextBox Grid.Row="1" Grid.Column="1" Margin="10" />
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="Address" Margin="10" 
+           HorizontalAlignment="Left" VerticalAlignment="Center" />
+            <TextBox Grid.Row="2" Grid.Column="1" Margin="10" />
+
+        </Grid>
+    </Grid>-->
+
+    <!--<Grid x:Name="LayoutRoot"  Width="Auto" Height="Auto">
+        <StackPanel x:Name="MyStackPanel" BorderBrush="Red" Margin="40" BorderThickness="2" CornerRadius="10"  Orientation="Horizontal">
+            --><!--<TextBlock x:Name="TB1" Text="First Name" Width="77" HorizontalAlignment="Left"/>--><!--
+            <Button Margin="10">Button1</Button>
+            --><!--<TextBlock x:Name="TB2" Text="Last Name" Width="78" HorizontalAlignment="Right"/>--><!--
+            <Button Margin="10">Button2</Button>
+            --><!--<TextBlock x:Name="TB3" Text="Address" Width="60" HorizontalAlignment="Left"/>--><!--
+            <Button Margin="10">Button3</Button>
+        </StackPanel>
+        <StackPanel Margin="40">
+            <TextBlock Text="Pizza Toppings"/>
+            <CheckBox Content="Pepperoni" x:Name="pepperoniCheckbox"
+              />
+            <CheckBox Content="Beef" x:Name="beefCheckbox"
+             />
+            <CheckBox Content="Mushrooms" x:Name="mushroomsCheckbox"
+             />
+            <CheckBox Content="Onions" x:Name="onionsCheckbox"
+              />
+
+            --><!-- Display the selected toppings. --><!--
+            <TextBlock Text="Toppings selected:"/>
+            <TextBlock x:Name="toppingsList"/>
+        </StackPanel>
+    </Grid>-->
+    <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Merging top 3 Cells" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" BorderThickness="2"></TextBlock>
+        <TextBlock Text="Rowspan=2" Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"></TextBlock>
+        <TextBlock Text="Rowspan=2 Colspan=2" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"></TextBlock>
+    </Grid>-->
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.Resources>
+            <Style TargetType="Grid">
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Background" Value="#f23cf4" />
+            </Style>
+        </Grid.Resources>
+        <Grid Margin="12">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <DropDownButton Content="Display" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="118" >
+                <DropDownButton.Flyout>
+                    <MenuFlyout Placement="Bottom">
+                        <MenuFlyoutItem Text="Default"/>
+                        <MenuFlyoutItem Text="Compact Overlay"/>
+                        <MenuFlyoutItem Text="Fullscreen"/>
+                    </MenuFlyout>
+                </DropDownButton.Flyout>
+            </DropDownButton>
+
+            <ToggleSwitch AutomationProperties.Name="simple ToggleSwitch" x:Name="dark_switch" Grid.Column="1" CornerRadius="3" VerticalAlignment="Center"  HorizontalAlignment="Right" MinWidth="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        </Grid>
+
+        <Grid x:Name="Control1" Grid.Row="1" ColumnSpacing="30" RowSpacing="12"
+          VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="HorizontalAlignment" Value="Stretch" />
+                    <Setter Property="VerticalAlignment" Value="Stretch" />
+                    <Setter Property="CornerRadius" Value="5" />
+                    <Setter Property="Foreground" Value="White" />
+                    <Setter Property="FontSize" Value="36" />
+                </Style>
+            </Grid.Resources>
+
+            <Button Background="#FF0000" Grid.Row="0" Grid.Column="0" Content="Kick 1"/>
+            <Button Background="#C4425A" Grid.Row="0" Grid.Column="1" Content="Kick 2"/>
+            <Button Background="#D41DD8" Grid.Row="0" Grid.Column="2" Content="Kick 3"/>
+            <Button Background="#6A21A3" Grid.Row="0" Grid.Column="3" Content="Kick 4"/>
+
+            <Button Background="#C4425A" Grid.Row="1" Grid.Column="0" Content="Clap 1"/>
+            <Button Background="#D41DD8" Grid.Row="1" Grid.Column="1" Content="Clap 2"/>
+            <Button Background="#6A21A3" Grid.Row="1" Grid.Column="2" Content="Clap 3"/>
+            <Button Background="#473DB8" Grid.Row="1" Grid.Column="3" Content="Clap 4"/>
+
+            <Button Background="#D41DD8" Grid.Row="2" Grid.Column="0" Content="Open Hat 1"/>
+            <Button Background="#6A21A3" Grid.Row="2" Grid.Column="1" Content="Open Hat 2"/>
+            <Button Background="#473DB8" Grid.Row="2" Grid.Column="2" Content="Open Hat 3"/>
+            <Button Background="#26AAC7" Grid.Row="2" Grid.Column="3" Content="Open Hat 4"/>
+
+            <Button Background="#6A21A3" Grid.Row="3" Grid.Column="0" Content="Snare 1"/>
+            <Button Background="#473DB8" Grid.Row="3" Grid.Column="1" Content="Snare 2"/>
+            <Button Background="#26AAC7" Grid.Row="3" Grid.Column="2" Content="Snare 3"/>
+            <Button Background="#1A7BD6" Grid.Row="3" Grid.Column="3" Content="Snare 4"/>
+        </Grid>
+    </Grid>-->
+    <Grid 
+        CornerRadius="3" 
+          BorderBrush="#2f5cb6"
+          BorderThickness="1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <!--<RowDefinition Height="*"/>-->
+        </Grid.RowDefinitions>
+        <!--<Border Grid.Row="0" Background="#D3D3D3"/>-->
+        <!--<Border Grid.Column ="1" Background="#E1E1E5"/>-->
+        <Border Grid.Row="0"  Background="#f7f7f8"/>
+        <Border Grid.Row="1"  Background="#E1E1E5"/>
+
+        <StackPanel Grid.Row="0" Margin="10,10,0,0" Orientation="Vertical">
+            <StackPanel HorizontalAlignment="Left" >
+                <RadioButton x:ConnectionId='5' x:Name="rtnfileserver" Content="File Server" FontSize="18"/>
+                <RadioButton x:ConnectionId='6' x:Name="rtndropbox" Content="Drop Box" FontSize="18"/>
+                <RadioButton x:ConnectionId='7' x:Name="rtnwebsite" Content="Website" FontSize="18"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center">
+                <TextBlock Text="Path for device folder:________________ " Foreground="#000" FontSize="18" Margin="0,0,10,0"/>
+                <TextBlock Text="Path local:____________ " Foreground="#000" FontSize="18" Margin="0,0,10,0"/>
+            </StackPanel>
+            <Button x:ConnectionId='4' x:Name="btnPath" Margin="0,0,30,0" Content="Change Path" Foreground="#fff" Background="#415A77" HorizontalAlignment="Right"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="10,10,0,0" Orientation="Vertical">
+            <TextBlock Text="DropBox Setting" Foreground="#000" FontSize="18" Margin="0,0,10,0"/>
+            <ListBox Margin="20" Height="100">
+                <StackPanel HorizontalAlignment="Center">
+                    <CheckBox>Allow deletion of files in Remove from Dropbox</CheckBox>
+                </StackPanel>
+            </ListBox>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:ConnectionId='2' x:Name="btnPath1" Margin="0,0,30,0" Content="Reset Dropbox login" Background="#415A77" Foreground="#fff" HorizontalAlignment="Left"/>
+                <Button x:ConnectionId='3' x:Name="btnPath2" Margin="0,0,30,0" Content="Clear Backup" Background="#BA181B" Foreground="#fff" HorizontalAlignment="Right"/>
+            </StackPanel>
+            <StackPanel>
+                
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+
+</Page>
+
